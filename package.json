@@ -1,0 +1,14 @@
+{
+  "name": "transforming_student_evaluation_with_adaptive_intelligence_and_performance_analytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
