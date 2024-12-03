@@ -1,0 +1,23 @@
+.name-check-container {
+    text-align: center;
+    margin-top: 2rem;
+  }
+  
+  input {
+    padding: 0.5rem;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .message {
+    font-size: 1rem;
+  }
+  
+  .message.available {
+    color: green;
+  }
+  
+  .message.taken {
+    color: red;
+  }
+  
